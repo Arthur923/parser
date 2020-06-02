@@ -1,0 +1,30 @@
+{
+  "name": "parse-head",
+  "version": "1.2.0",
+  "description": " - ",
+  "main": "parser.js",
+  "scripts": {
+    "test": "node test/parser.js"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arthur923/parser"
+  },
+  "keywords": [
+    "json",
+    "html",
+    "head",
+    "parser"
+  ],
+  "author": "Arthur923",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "trumpet": "^1.7.2"
+  },
+  "devDependencies": {
+    "blue-tape": "^0.2.0"
+  }
+}
